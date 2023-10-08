@@ -1,0 +1,21 @@
+# Arquivos e diretórios relacionados ao Python
+__pycache__/
+*.py[cod]
+*.log
+*.pot
+*.egg-info/
+dist/
+build/
+
+# Ambientes virtuais
+venv/
+ENV/
+
+# Arquivos relacionados ao IDE
+# JetBrains (PyCharm)
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+
